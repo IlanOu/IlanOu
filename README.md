@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me:
+I am currently working on a [school project](https://github.com/IlanOu/Jeu_2d_tracking) with [my team mate](https://github.com/Kibishi47)
 
-<!--
-**IlanOu/IlanOu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://visitcount.itsvg.in/api?id=ilanou&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ilanou&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilanou&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
