@@ -9,4 +9,5 @@ I am currently working on a [school project](https://github.com/IlanOu/Jeu_2d_tr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ilanou&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilanou&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![IlanOu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlanOu&theme=react)](https://github.com/IlanOu/github-readme-activity-graph)
 ---
