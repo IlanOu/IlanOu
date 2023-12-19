@@ -1,5 +1,5 @@
 # About Me:
-I am currently working on a [school project](https://github.com/IlanOu/Motion-Game) with [my teammate](https://github.com/Kibishi47)
+I am currently working on my [portfolio](https://github.com/IlanOu/portfolio) !
 
 
 # 📊 GitHub Stats:
