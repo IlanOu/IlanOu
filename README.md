@@ -4,7 +4,7 @@ I am currently working on my [portfolio](https://github.com/IlanOu/portfolio/tre
 
 # 📊 GitHub Stats:
 
-[![](https://visitcount.itsvg.in/api?id=ilanou&icon=0&color=6)](https://github.com/IlanOu/)
+<!-- [![](https://visitcount.itsvg.in/api?id=ilanou&icon=0&color=6)](https://github.com/IlanOu/) -->
 
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilanou&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/IlanOu/) -->
 [![](https://github-readme-streak-stats.herokuapp.com/?user=IlanOu&theme=react&hide_border=false)](https://github.com/IlanOu/)
